@@ -31,7 +31,7 @@ To generate Captchas, the Bot uses [multicolor_captcha_generator library](https:
 2. Get the project and install JoinCaptchaBot requirements:
 
     ```bash
-    git clone https://github.com/J-Rios/TLG_JoinCaptchaBot
+    git clone https://github.com/boomhq/TLG_JoinCaptchaBot
     pip install -r TLG_JoinCaptchaBot/requirements.txt
     ```
 
